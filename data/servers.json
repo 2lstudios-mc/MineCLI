@@ -1,0 +1,88 @@
+[
+  {
+    "type": "proxy",
+    "name": "BungeeCord",
+    "artifacts": {
+      "latest": "https://ci.md-5.net/job/BungeeCord/lastSuccessfulBuild/artifact/bootstrap/target/BungeeCord.jar"
+    }
+  },
+
+  {
+    "type": "proxy",
+    "name": "WaterFall",
+    "artifacts": {
+      "latest": "https://papermc.io/api/v2/projects/waterfall/versions/1.17/builds/449/downloads/waterfall-1.17-449.jar"
+    }
+  },
+
+  {
+    "type": "java-server",
+    "name": "Paper",
+    "artifacts": {
+      "1.17.1": "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/266/downloads/paper-1.17.1-266.jar",
+      "1.16.5": "https://papermc.io/api/v2/projects/paper/versions/1.16.5/builds/788/downloads/paper-1.16.5-788.jar",
+      "1.15.2": "https://papermc.io/api/v2/projects/paper/versions/1.15.2/builds/391/downloads/paper-1.15.2-391.jar",
+      "1.14.4": "https://papermc.io/api/v2/projects/paper/versions/1.14.4/builds/243/downloads/paper-1.14.4-243.jar",
+      "1.13.2": "https://papermc.io/api/v2/projects/paper/versions/1.13.2/builds/655/downloads/paper-1.13.2-655.jar",
+      "1.12.2": "https://papermc.io/api/v2/projects/paper/versions/1.12.2/builds/1618/downloads/paper-1.12.2-1618.jar",
+      "1.11.2": "https://papermc.io/api/v2/projects/paper/versions/1.11.2/builds/1104/downloads/paper-1.11.2-1104.jar",
+      "1.10.2": "https://papermc.io/api/v2/projects/paper/versions/1.10.2/builds/916/downloads/paper-1.10.2-916.jar",
+      "1.9.4": "https://papermc.io/api/v2/projects/paper/versions/1.9.4/builds/773/downloads/paper-1.9.4-773.jar",
+      "1.8.8": "https://papermc.io/api/v2/projects/paper/versions/1.8.8/builds/443/downloads/paper-1.8.8-443.jar"
+    }
+  },
+
+  {
+    "type": "java-server",
+    "name": "Spigot",
+    "artifacts": {
+      "1.17.1": "https://download.getbukkit.org/spigot/spigot-1.17.1.jar",
+      "1.17": "https://download.getbukkit.org/spigot/spigot-1.17.jar",
+      "1.16.5": "https://cdn.getbukkit.org/spigot/spigot-1.16.5.jar",
+      "1.16.4": "https://cdn.getbukkit.org/spigot/spigot-1.16.4.jar",
+      "1.16.3": "https://cdn.getbukkit.org/spigot/spigot-1.16.3.jar",
+      "1.16.2": "https://cdn.getbukkit.org/spigot/spigot-1.16.2.jar",
+      "1.16.1": "https://cdn.getbukkit.org/spigot/spigot-1.16.1.jar",
+      "1.15.2": "https://cdn.getbukkit.org/spigot/spigot-1.15.2.jar",
+      "1.15.1": "https://cdn.getbukkit.org/spigot/spigot-1.15.1.jar",
+      "1.15": "https://cdn.getbukkit.org/spigot/spigot-1.15.jar",
+      "1.14.4": "https://cdn.getbukkit.org/spigot/spigot-1.14.4.jar",
+      "1.14.3": "https://cdn.getbukkit.org/spigot/spigot-1.14.3.jar",
+      "1.14.2": "https://cdn.getbukkit.org/spigot/spigot-1.14.2.jar",
+      "1.14.1": "https://cdn.getbukkit.org/spigot/spigot-1.14.1.jar",
+      "1.14": "https://cdn.getbukkit.org/spigot/spigot-1.14.jar",
+      "1.13.2": "https://cdn.getbukkit.org/spigot/spigot-1.13.2.jar",
+      "1.13.1": "https://cdn.getbukkit.org/spigot/spigot-1.13.1.jar",
+      "1.13": "https://cdn.getbukkit.org/spigot/spigot-1.13.jar",
+      "1.12.2": "https://cdn.getbukkit.org/spigot/spigot-1.12.2.jar",
+      "1.12.1": "https://cdn.getbukkit.org/spigot/spigot-1.12.1.jar",
+      "1.12": "https://cdn.getbukkit.org/spigot/spigot-1.12.jar",
+      "1.11.2": "https://cdn.getbukkit.org/spigot/spigot-1.11.2.jar",
+      "1.11.1": "https://cdn.getbukkit.org/spigot/spigot-1.11.1.jar",
+      "1.11": "https://cdn.getbukkit.org/spigot/spigot-1.11.jar",
+      "1.10.2": "https://cdn.getbukkit.org/spigot/spigot-1.10.2.jar",
+      "1.10": "https://cdn.getbukkit.org/spigot/spigot-1.10.jar",
+      "1.9.4": "https://cdn.getbukkit.org/spigot/spigot-1.9.4.jar",
+      "1.9.2": "https://cdn.getbukkit.org/spigot/spigot-1.9.2.jar",
+      "1.9": "https://cdn.getbukkit.org/spigot/spigot-1.9.jar",
+      "1.8.8": "https://cdn.getbukkit.org/spigot/spigot-1.8.8.jar",
+      "1.8.7": "https://cdn.getbukkit.org/spigot/spigot-1.8.7.jar",
+      "1.8.6": "https://cdn.getbukkit.org/spigot/spigot-1.8.6.jar",
+      "1.8.5": "https://cdn.getbukkit.org/spigot/spigot-1.8.5.jar",
+      "1.8.4": "https://cdn.getbukkit.org/spigot/spigot-1.8.4.jar",
+      "1.8.3": "https://cdn.getbukkit.org/spigot/spigot-1.8.3.jar",
+      "1.8": "https://cdn.getbukkit.org/spigot/spigot-1.8.jar",
+      "1.7.10": "https://cdn.getbukkit.org/spigot/spigot-1.7.10.jar",
+      "1.7.9": "https://cdn.getbukkit.org/spigot/spigot-1.7.9.jar",
+      "1.7.8": "https://cdn.getbukkit.org/spigot/spigot-1.7.8.jar",
+      "1.7.5": "https://cdn.getbukkit.org/spigot/spigot-1.7.5.jar",
+      "1.7.2": "https://cdn.getbukkit.org/spigot/spigot-1.7.2.jar",
+      "1.6.4": "https://cdn.getbukkit.org/spigot/spigot-1.6.4.jar",
+      "1.6.2": "https://cdn.getbukkit.org/spigot/spigot-1.6.2.jar",
+      "1.5.2": "https://cdn.getbukkit.org/spigot/spigot-1.5.2.jar",
+      "1.5.1": "https://cdn.getbukkit.org/spigot/spigot-1.5.1.jar",
+      "1.4.7": "https://cdn.getbukkit.org/spigot/spigot-1.4.7.jar",
+      "1.4.6": "https://cdn.getbukkit.org/spigot/spigot-1.4.6.jar"
+    }
+  }
+]
