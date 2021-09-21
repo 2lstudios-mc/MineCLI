@@ -18,6 +18,7 @@
   {
     "type": "java-server",
     "name": "Paper",
+    "latest": "1.17.1",
     "artifacts": {
       "1.17.1": "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/266/downloads/paper-1.17.1-266.jar",
       "1.16.5": "https://papermc.io/api/v2/projects/paper/versions/1.16.5/builds/788/downloads/paper-1.16.5-788.jar",
@@ -35,6 +36,7 @@
   {
     "type": "java-server",
     "name": "Spigot",
+    "latest": "1.17.1",
     "artifacts": {
       "1.17.1": "https://download.getbukkit.org/spigot/spigot-1.17.1.jar",
       "1.17": "https://download.getbukkit.org/spigot/spigot-1.17.jar",
