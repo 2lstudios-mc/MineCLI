@@ -1,0 +1,4 @@
+obj/
+bin/
+
+server/node_modules
